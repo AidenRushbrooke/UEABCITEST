@@ -1,0 +1,9 @@
+# Site settings
+title: My Awesome Site
+description: A personal website built with Jekyll
+baseurl: "/UEABCITEST"  # Leave this empty for user.github.io, or use "/repo-name" if using a project page
+url: "https://aidenrushbrooke.github.io"  # Change to your GitHub Pages URL
+
+# Build settings
+markdown: kramdown
+theme: minima  # You can change this to another supported theme or remove it to use your own layouts
