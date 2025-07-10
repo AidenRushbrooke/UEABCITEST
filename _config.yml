@@ -5,4 +5,4 @@ baseurl: "/UEABCITEST"  # Leave this empty for user.github.io, or use "/repo-nam
 url: "https://aidenrushbrooke.github.io"  # Change to your GitHub Pages URL
 
 # Build settings
-theme: alembic-jekyll-theme
+theme: slate
