@@ -5,5 +5,4 @@ baseurl: "/UEABCITEST"  # Leave this empty for user.github.io, or use "/repo-nam
 url: "https://aidenrushbrooke.github.io"  # Change to your GitHub Pages URL
 
 # Build settings
-markdown: kramdown
-theme: minima  # You can change this to another supported theme or remove it to use your own layouts
+theme: minima
