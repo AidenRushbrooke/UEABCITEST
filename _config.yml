@@ -1,6 +1,6 @@
 # Site settings
 title: UEA BCI
-description: Brain Computer Interfacing: Word Recognition and Motor Imagery
+description: "Brain Computer Interfacing: Word Recognition and Motor Imagery"
 baseurl: "/UEABCITEST"  # Leave this empty for user.github.io, or use "/repo-name" if using a project page
 url: "https://aidenrushbrooke.github.io"  # Change to your GitHub Pages URL
 
